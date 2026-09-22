@@ -19,8 +19,9 @@ chmod +x install.sh
 ./install.sh
 ```
 ## 📋 Список доступных команд:
-```bash
+
 # --- НАВИГАЦИЯ И ОБЗОР ---
+```bash
  go='cd'
  back='cd ..'
  ..='cd ..'

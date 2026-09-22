@@ -9,13 +9,13 @@
 зайди в ~/.bashrc
 и напиши в самый низ
 alias твоя команда='команда системы'
-
+```bash
 ## 🛠 Быстрая установка
 git clone https://github.com/TeRABAit7/dementia-bash.git
 cd dementia-bash
 chmod +x install.sh
 ./install.sh
-
+```
 ## 📋 Список доступных команд:
 # --- НАВИГАЦИЯ И ОБЗОР ---
  go='cd'
